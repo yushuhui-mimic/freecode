@@ -1,0 +1,17 @@
+﻿# data
+*.parquet
+*.csv
+*.tsv
+*.rds
+*.RData
+# outputs
+results/
+figures_out/
+*.pdf
+*.png
+*.tiff
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user/
